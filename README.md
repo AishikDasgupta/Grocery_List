@@ -53,6 +53,9 @@ If you'd like to contribute to this project or report issues, please feel free t
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Screenshots 📷
+![Screenshot from 2023-09-08 19-31-14](https://github.com/AishikDasgupta/Grocery_List/assets/83045121/37193208-b5b7-4abd-bf20-b939f5c36930)
+
 ## Acknowledgments 🙏
 
 Special thanks to the open-source community for their contributions and support in creating this web app.
